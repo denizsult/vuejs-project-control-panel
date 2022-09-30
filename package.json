@@ -1,0 +1,22 @@
+{
+  "name": "vuejs-project-control-panel",
+  "version": "0.0.1",
+  "description": "A web server where you can control your Vue Project.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denizsult/vuejs-project-control-panel.git"
+  },
+  "author": "Deniz Sultanoğlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denizsult/vuejs-project-control-panel/issues"
+  },
+  "homepage": "https://github.com/denizsult/vuejs-project-control-panel#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
